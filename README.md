@@ -9,3 +9,4 @@
 ##### 如果论文有一些翻译错误，您可以直接在issue上提出，我会及时更正！
 
 ##### 同时论文的中文版本的zip压缩包在 [paper_scourse](https://github.com/matrixgame2018/paper-translating/tree/main/paper_scourse) 中，如果你也有兴趣的话，可以直接下载协助翻译，然后给这个repo提一个大大的pr！
+
